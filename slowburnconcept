@@ -1,0 +1,34 @@
+# Slow-Burn Chain Blend (Concept Spec)
+
+Base_Alkane_Fuel
+  Component: Gasoline-range alkanes
+  Fraction: 94–96 % by volume
+  Role: Main energy carrier, vaporizes in carburetor.
+
+Ethanol
+  Component: CH3CH2OH
+  Fraction: 2–3 % by volume
+  Role:
+    - Co-solvent between aqueous additive and fuel.
+    - Lowers flame temperature slightly.
+    - Helps carry a trace of water into vapor phase.
+
+Water
+  Component: H2O (in additive solution)
+  Fraction: 1–2 % by volume (as liquid in tank; part becomes vapor in intake)
+  Role:
+    - Charge cooling when vaporized.
+    - Slows pressure rise and peak temperature.
+
+Aromatic_Salt_Additive_Solution
+  Example_Solute: Sodium_Benzoate (C6H5COO⁻ Na⁺)
+  Solute_Fraction: ~0.1–0.5 % by volume (dissolved in the water/ethanol microphase)
+  Role:
+    - Dissolves in water → “saline/aromatic” additive solution.
+    - Stays in aqueous/alcohol droplets; does not enter vapor phase.
+    - Chemically spectator in combustion; practical effect is negligible on flame speed.
+
+Phase_Behavior
+  - In the tank: micro-droplets of water/ethanol + aromatic salt dispersed in alkane.
+  - In the carburetor: alkane + ethanol + some water vapor enter the charge.
+  - At the flame front: alkane + ethanol + water vapor burn; aromatic salt remains non-volatile residue.
