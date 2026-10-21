@@ -1,0 +1,36 @@
+# Aromatic Salt Additive Molecules (Water‑Phase)
+
+Sodium_Benzoate
+  Formula: C6H5COO⁻ Na⁺
+  Type: Aromatic carboxylate salt
+  Notes: Highly water‑soluble; forms clear saline/aromatic solution.
+
+Sodium_Salicylate
+  Formula: C6H4(OH)COO⁻ Na⁺
+  Type: Aromatic phenolic carboxylate salt
+  Notes: Dissolves strongly in water + ethanol; non‑volatile.
+
+Sodium_Toluene_Sulfonate
+  Formula: CH3–C6H4–SO3⁻ Na⁺
+  Type: Aromatic sulfonate salt
+  Notes: Very polar; excellent water solubility; detergent‑like behavior.
+
+Potassium_Benzoate
+  Formula: C6H5COO⁻ K⁺
+  Type: Aromatic carboxylate salt
+  Notes: Similar to sodium benzoate; dissolves instantly in water.
+
+Sodium_Phenolate
+  Formula: C6H5O⁻ Na⁺
+  Type: Aromatic phenoxide salt
+  Notes: Strong base; dissolves in water/ethanol; not fuel‑phase.
+
+Sodium_Anisate
+  Formula: CH3O–C6H4–COO⁻ Na⁺
+  Type: Aromatic methoxy carboxylate salt
+  Notes: Water‑soluble aromatic salt; stays in aqueous phase.
+
+Sodium_Cinnamate
+  Formula: C6H5–CH=CH–COO⁻ Na⁺
+  Type: Aromatic alkene carboxylate salt
+  Notes: Dissolves in water/ethanol; non‑volatile.
